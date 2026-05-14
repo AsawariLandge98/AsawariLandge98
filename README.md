@@ -57,22 +57,15 @@
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsawariLandge98&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsawariLandge98&layout=compact&langs_count=8&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=AsawariLandge98&theme=radical"/>
 
 </p>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AsawariLandge98&theme=radical&hide_border=false"/>
-
-</p>
 ---
+
 
 ## 🔥 Contribution Graph
 
